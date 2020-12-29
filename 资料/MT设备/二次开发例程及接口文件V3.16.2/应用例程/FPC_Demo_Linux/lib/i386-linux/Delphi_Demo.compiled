@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/local/codetyphon/fpc/fpc64/bin/x86_64-linux/fpc" Date="1513056313"/>
+  <Params Value=" -Tlinux -Pi386 -MDelphi -Scghi -O1 -g -gl -l -vewnhibq -Fi/mnt/hgfs/share/Demo_Linux/lib/i386-linux -Fl/mnt/hgfs/share/Demo_Linux/C:/codetyphon/binLibraries/i386-linux -Fu/home/vmuser/.typhon64/lib/units/i386-linux/gtk2 -Fu/usr/local/codetyphon/typhon/lcl/units/i386-linux -Fu/usr/local/codetyphon/typhon/components/BaseUtils/lib/i386-linux -Fu/usr/local/codetyphon/typhon/packager/units/i386-linux -Fu/mnt/hgfs/share/Demo_Linux/ -FU/mnt/hgfs/share/Demo_Linux/lib/i386-linux/ -FE/mnt/hgfs/share/Demo_Linux/lib/i386-linux/ -dLCL -dLCLgtk2 -FLE:\Projects\EasyStudio2\WINCE\Demo_Linux\lib\i386-linux\libmt_api.so Delphi_Demo.dpr"/>
+  <Complete Value="False"/>
+</CONFIG>

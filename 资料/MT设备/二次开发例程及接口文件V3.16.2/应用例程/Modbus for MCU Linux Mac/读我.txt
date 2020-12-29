@@ -1,0 +1,3 @@
+1 根据不同的单片机，修改Modbus.c注释中要求更改的地方
+
+2 调用PLC_Set_Var_Data和PLC_Get_Var_Data和运动卡进行通信即可

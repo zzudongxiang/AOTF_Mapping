@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1533477500 source:/mnt/hgfs/share/CodeBlocksDemo/Demo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint-gcc.h>
+	"MT_API.h"
+	<unistd.h>
+
+1533450693 /mnt/hgfs/share/CodeBlocksDemo/Demo/MT_API.h
+	<stdint-gcc.h>
+

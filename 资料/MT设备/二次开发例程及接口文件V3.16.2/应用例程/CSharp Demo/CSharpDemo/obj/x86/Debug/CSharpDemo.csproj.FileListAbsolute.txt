@@ -1,0 +1,14 @@
+E:\Projects\XiaoMo\03_用户控制卡资料\电脑二次开发\应用例程\CSharp Demo\CSharpDemo\bin\x86\Debug\CSharpDemo.exe
+E:\Projects\XiaoMo\03_用户控制卡资料\电脑二次开发\应用例程\CSharp Demo\CSharpDemo\bin\x86\Debug\CSharpDemo.pdb
+E:\Projects\XiaoMo\03_用户控制卡资料\电脑二次开发\应用例程\CSharp Demo\CSharpDemo\obj\x86\Debug\CSharpDemo.Form1.resources
+E:\Projects\XiaoMo\03_用户控制卡资料\电脑二次开发\应用例程\CSharp Demo\CSharpDemo\obj\x86\Debug\CSharpDemo.Properties.Resources.resources
+E:\Projects\XiaoMo\03_用户控制卡资料\电脑二次开发\应用例程\CSharp Demo\CSharpDemo\obj\x86\Debug\CSharpDemo.csproj.GenerateResource.Cache
+E:\Projects\XiaoMo\03_用户控制卡资料\电脑二次开发\应用例程\CSharp Demo\CSharpDemo\obj\x86\Debug\CSharpDemo.exe
+E:\Projects\XiaoMo\03_用户控制卡资料\电脑二次开发\应用例程\CSharp Demo\CSharpDemo\obj\x86\Debug\CSharpDemo.pdb
+E:\Projects\XiaoMo\03_用户控制卡资料\二次开发\应用例程\CSharp Demo\CSharpDemo\obj\x86\Debug\CSharpDemo.exe
+E:\Projects\XiaoMo\03_用户控制卡资料\二次开发\应用例程\CSharp Demo\CSharpDemo\obj\x86\Debug\CSharpDemo.pdb
+E:\Projects\XiaoMo\03_用户控制卡资料\二次开发\应用例程\CSharp Demo\CSharpDemo\bin\x86\Debug\CSharpDemo.exe
+E:\Projects\XiaoMo\03_用户控制卡资料\二次开发\应用例程\CSharp Demo\CSharpDemo\bin\x86\Debug\CSharpDemo.pdb
+E:\Projects\XiaoMo\03_用户控制卡资料\二次开发\应用例程\CSharp Demo\CSharpDemo\obj\x86\Debug\CSharpDemo.Form1.resources
+E:\Projects\XiaoMo\03_用户控制卡资料\二次开发\应用例程\CSharp Demo\CSharpDemo\obj\x86\Debug\CSharpDemo.Properties.Resources.resources
+E:\Projects\XiaoMo\03_用户控制卡资料\二次开发\应用例程\CSharp Demo\CSharpDemo\obj\x86\Debug\CSharpDemo.csproj.GenerateResource.Cache

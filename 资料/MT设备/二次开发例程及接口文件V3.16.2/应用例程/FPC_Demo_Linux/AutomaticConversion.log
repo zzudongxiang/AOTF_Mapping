@@ -1,0 +1,13 @@
+Delphi_Demo.ctpr Note: Added defines -dBorland -dVer150 -dDelphi7 -dCompiler6_Up -dPUREPASCAL in custom options
+ Progress: Found all unit files
+ : 
+ : *** Converting unit files belonging to project/package ***
+main.pas Note: Changed encoding from cp936 to UTF-8
+main.pas Note: Replaced unit "Windows" with "LCLIntf, LCLType, LMessages" in uses section.
+MT_API.pas Note: Changed encoding from cp936 to UTF-8
+ : 
+ : *** Fixing used units and Repairing form files ***
+main.pas Note: Removed property "TextHeight".
+main.pas Note: Removed property "OldCreateOrder".
+ Progress: Conversion took: 00:00:01
+ : Conversion Ready.

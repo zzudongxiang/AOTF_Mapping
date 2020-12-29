@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Stream - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/Stream.res" /d "_DEBUG" /d "_AFXDLL" "E:\Projects\XiaoMo\Demos\VC6_Stream\Stream\Stream.rc"" 
+Creating temporary file "C:\Users\skyhu\AppData\Local\Temp\RSP5F99.tmp" with contents
+[
+/nologo /Gz /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/Stream.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\Projects\XiaoMo\Demos\VC6_Stream\Stream\Stream.cpp"
+"E:\Projects\XiaoMo\Demos\VC6_Stream\Stream\StreamDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\skyhu\AppData\Local\Temp\RSP5F99.tmp" 
+Creating command line "link.exe MT_API.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Stream.pdb" /debug /machine:I386 /out:"Debug/Stream.exe" /pdbtype:sept  .\Debug\StdAfx.obj .\Debug\Stream.obj .\Debug\StreamDlg.obj .\Debug\Stream.res "
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StreamDlg.cpp
+e:\projects\xiaomo\demos\vc6_stream\stream\streamdlg.cpp(4) : warning C4652: compiler option 'StdCall(/Gz)' inconsistent with precompiled header; current command-line option will override that defined in the precompiled header
+Generating Code...
+Skipping... (no relevant changes detected)
+Stream.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Stream.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>

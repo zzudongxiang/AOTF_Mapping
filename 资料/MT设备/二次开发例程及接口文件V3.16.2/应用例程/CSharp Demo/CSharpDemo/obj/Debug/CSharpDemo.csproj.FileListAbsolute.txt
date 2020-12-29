@@ -1,0 +1,24 @@
+E:\Projects\Easy Studio2\CSharp Demo\CSharpDemo\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Easy Studio2\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.Form1.resources
+E:\Projects\Easy Studio2\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.Properties.Resources.resources
+E:\Projects\Easy Studio2\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.csproj.GenerateResource.Cache
+E:\Projects\Easy Studio2\CSharp Demo\CSharpDemo\bin\Debug\CSharpDemo.exe
+E:\Projects\Easy Studio2\CSharp Demo\CSharpDemo\bin\Debug\CSharpDemo.pdb
+E:\Projects\Easy Studio2\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.exe
+E:\Projects\Easy Studio2\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.pdb
+E:\Projects\XiaoMo\用户控制卡资料\应用例程\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.exe
+E:\Projects\XiaoMo\用户控制卡资料\应用例程\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.pdb
+E:\Projects\XiaoMo\用户控制卡资料\应用例程\CSharp Demo\CSharpDemo\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\XiaoMo\用户控制卡资料\应用例程\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.Form1.resources
+E:\Projects\XiaoMo\用户控制卡资料\应用例程\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.Properties.Resources.resources
+E:\Projects\XiaoMo\用户控制卡资料\应用例程\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.csproj.GenerateResource.Cache
+E:\Projects\XiaoMo\用户控制卡资料\应用例程\CSharp Demo\CSharpDemo\bin\Debug\CSharpDemo.exe
+E:\Projects\XiaoMo\用户控制卡资料\应用例程\CSharp Demo\CSharpDemo\bin\Debug\CSharpDemo.pdb
+E:\Projects\XiaoMo\03_用户控制卡资料\电脑二次开发\应用例程\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.exe
+E:\Projects\XiaoMo\03_用户控制卡资料\电脑二次开发\应用例程\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.pdb
+E:\Projects\XiaoMo\03_用户控制卡资料\电脑二次开发\应用例程\CSharp Demo\CSharpDemo\bin\Debug\CSharpDemo.exe
+E:\Projects\XiaoMo\03_用户控制卡资料\电脑二次开发\应用例程\CSharp Demo\CSharpDemo\bin\Debug\CSharpDemo.pdb
+E:\Projects\XiaoMo\03_用户控制卡资料\电脑二次开发\应用例程\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.csprojResolveAssemblyReference.cache
+E:\Projects\XiaoMo\03_用户控制卡资料\电脑二次开发\应用例程\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.Form1.resources
+E:\Projects\XiaoMo\03_用户控制卡资料\电脑二次开发\应用例程\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.Properties.Resources.resources
+E:\Projects\XiaoMo\03_用户控制卡资料\电脑二次开发\应用例程\CSharp Demo\CSharpDemo\obj\Debug\CSharpDemo.csproj.GenerateResource.Cache

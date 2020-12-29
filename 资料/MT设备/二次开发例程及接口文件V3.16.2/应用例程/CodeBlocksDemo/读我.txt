@@ -1,0 +1,9 @@
+Demo中的 libmt_api.so   是x86_64_Linux版本  在ubuntu 64位进行的测试
+
+使用前，请先复制so文件到linux的搜索库里，例如  /lib 或者 /usr/lib  或者
+参考下面的文章进行设置或者参考其它资料
+http://www.cnblogs.com/lovevivi/archive/2013/01/15/2861211.html
+
+链接中需要链接 -lmt_api
+
+其它版本的so文件请在对应的linux下使用

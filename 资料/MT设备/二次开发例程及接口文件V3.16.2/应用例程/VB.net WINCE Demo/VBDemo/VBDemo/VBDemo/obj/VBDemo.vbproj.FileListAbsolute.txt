@@ -1,0 +1,11 @@
+E:\Projects\WINCE\VBDemo\VBDemo\VBDemo\bin\Debug\VBDemo.exe
+E:\Projects\WINCE\VBDemo\VBDemo\VBDemo\bin\Debug\VBDemo.pdb
+E:\Projects\WINCE\VBDemo\VBDemo\VBDemo\bin\Debug\VBDemo.xml
+E:\Projects\WINCE\VBDemo\VBDemo\VBDemo\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\WINCE\VBDemo\VBDemo\VBDemo\obj\Debug\VBDemo.Resources.resources
+E:\Projects\WINCE\VBDemo\VBDemo\VBDemo\obj\Debug\VBDemo.vbproj.GenerateResource.Cache
+E:\Projects\WINCE\VBDemo\VBDemo\VBDemo\obj\Debug\VBDemo.exe
+E:\Projects\WINCE\VBDemo\VBDemo\VBDemo\obj\Debug\VBDemo.xml
+E:\Projects\WINCE\VBDemo\VBDemo\VBDemo\obj\Debug\VBDemo.pdb
+E:\Projects\WINCE\VBDemo\VBDemo\VBDemo\obj\Debug\VBDemo.VBDemo.resources
+E:\Projects\WINCE\VBDemo\VBDemo\VBDemo\bin\Debug\MT_API.dll

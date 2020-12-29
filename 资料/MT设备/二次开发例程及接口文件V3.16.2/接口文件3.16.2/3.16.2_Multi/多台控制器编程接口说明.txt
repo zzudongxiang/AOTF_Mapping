@@ -1,0 +1,38 @@
+本开发接口为有多台控制器，又想同时控制的客户准备的开发包
+
+多台控制函数功能和单台的开发包保持一致，区别为，和控制器相关的函数全都增加了一个形参，用来区分对哪台控制器发送指令
+
+例如 
+
+打开串口通信
+单台打开： 
+  MT_Open_UART(串口号)
+
+多台(3台)打开： (串口可以指定顺序)
+  MT_Open_UART(0,串口号)
+  MT_Open_UART(1,串口号)
+  MT_Open_UART(2,串口号)
+
+打开USB通信
+单台:
+  MT_Open_USB
+
+多台:
+  MT_Open_USB(0)
+  MT_Open_USB(1)
+  MT_Open_USB(2)
+
+USB不能指定哪个对应哪个序号，由windows识别的顺序决定
+
+读取当前位置
+
+单台:
+  MT_Get_Axis_Software_P_Now(轴号，&变量)
+多台:
+  MT_Get_Axis_Software_P_Now(0,轴号，&变量1)   //读取第一台的 轴号对应的位置
+  MT_Get_Axis_Software_P_Now(1,轴号，&变量2)   //读取第二台的 轴号对应的位置
+  MT_Get_Axis_Software_P_Now(2,轴号，&变量3)
+
+
+台号从0开始，0,1,2,3,4....
+轴号每台也从0开始
